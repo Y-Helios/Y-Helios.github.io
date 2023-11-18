@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "YH"
+title                    : "Han Yang"
 description              : "This is Han Yang's homepage."
-repository               : "Y-Helios/han_yang.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "Y-Helios/Y-Helios.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

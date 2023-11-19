@@ -23,7 +23,7 @@ My name is Han Yang, an undergraduate student from Sichuan University. I major i
 
 ## 🍀 Ph.D. Aspirations
 
-<span style="color: red;">I'm actively seeking a Ph.D. position for Fall 2024. Wishing for good fortune!😘 </span>
+<span style="color: red;">I'm actively seeking a Ph.D. position for Fall 2024. Wish me good fortune!😘 </span>
 
 ## 📢 Research Interest
 
@@ -53,7 +53,7 @@ Yucheng Fu, Guoheng Sun, **Han Yang**, Juntian Huang, Haizhou Wang<sup>*</sup>
 # 🎖 Honors and Awards
 - *2024.06* **Outstanding Graduate Student(Top 10%)**, Sichuan University
 - *2023.10* **National Inspiration Scholarship**, Sichuan University
-- *2022.04* **National 1st Prize**, The 8th China International College Students “Internet+” Internet innovation and Entrepreneurship Competition
+- *2023.04* **National 1st Prize**, The 8th China International College Students “Internet+” Internet innovation and Entrepreneurship Competition
 - *2022.12* **National Level (Top 10%)**, The 2022 National Training Program of Innovation and Entrepreneurship for Undergraduates
 - *2022.10* **National Inspiration Scholarship**, Sichuan University
 - *2021.10* **National Inspiration Scholarship**, Sichuan University

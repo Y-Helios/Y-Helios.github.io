@@ -21,11 +21,11 @@ redirect_from:
 
 My name is Han Yang, an undergraduate student from Sichuan University. I major in cyber security.
 
-# 🍀 Ph.D. Aspirations
+## 🍀 Ph.D. Aspirations
 
 <span style="color: red;">I'm actively seeking a Ph.D. position for Fall 2024. Wishing for good fortune!😘 </span>
 
-# 📢 Research Interest
+## 📢 Research Interest
 
 My research interest includes but not limited to:
 

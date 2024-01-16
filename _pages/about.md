@@ -1,4 +1,4 @@
-![image](https://github.com/Y-Helios/Y-Helios.github.io/assets/59247481/9374d2dc-532c-4fc6-a511-f52255875c6d)![image](https://github.com/Y-Helios/Y-Helios.github.io/assets/59247481/9242bedd-6039-4050-bc7b-12e7e144bcfd)---
+---
 permalink: /
 title: "Han Yang"
 excerpt: ""
@@ -37,19 +37,28 @@ My research interest includes but not limited to:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024(oral)</div><img src='images/iclr-2024.png' alt="sym" width="100%"></div></div>
+(**underline** indicates equal contribution;  <sup>*</sup> indicates corresponding authorship.)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GraphGuard: Provably Robust Graph Classification against Adversarial Attacks](https://openreview.net/pdf?id=IGzaH538fz)
+[GraphGuard: Provably Robust Graph Classification against Adversarial Attacks](https://openreview.net/pdf?id=IGzaH538fz) (**ICLR 2024 oral**)
 
 <u>Zaishuo Xia</u>, <u>**Han Yang**</u>, Binghui Wang, Jinyuan Jia<sup>*</sup>
+
+[**code** (coming soon)]
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2023</div><img src='images/ijcnn-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881)
+[Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples](https://ieeexplore.ieee.org/abstract/document/10191881) (IJCNN 2023)
 
 Yucheng Fu, Guoheng Sun, **Han Yang**, Juntian Huang, Haizhou Wang<sup>*</sup>
+
+[**code**](https://github.com/17suidas/Defense-for-LCSCaptcha)
 
 </div>
 </div>

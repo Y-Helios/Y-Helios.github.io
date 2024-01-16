@@ -19,7 +19,7 @@ redirect_from:
 
 # 💫 About Me
 
-My name is Han Yang, an undergraduate student from Sichuan University. I major in cyber security.
+My name is Han Yang, an undergraduate student from Sichuan University. I major in cybersecurity.
 
 ## 🍀 Ph.D. Aspirations
 
@@ -39,7 +39,7 @@ My research interest includes but not limited to:
 
 (**underline** indicates equal contribution;  <sup>*</sup> indicates corresponding authorship.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr-2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 oral</div><img src='images/iclr-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GraphGuard: Provably Robust Graph Classification against Adversarial Attacks](https://openreview.net/pdf?id=IGzaH538fz) (**ICLR 2024 oral**)

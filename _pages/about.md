@@ -44,7 +44,7 @@ My research interest includes but not limited to:
 
 [GraphGuard: Provably Robust Graph Classification against Adversarial Attacks](https://openreview.net/pdf?id=IGzaH538fz) (**ICLR 2024 oral**)
 
-<u>Zaishuo Xia</u>, <u>**Han Yang**</u>, Binghui Wang, Jinyuan Jia<sup>*</sup>
+<u>Zaishuo Xia</u>, **<u>Han Yang</u>**, Binghui Wang, Jinyuan Jia<sup>*</sup>
 
 [**code** (coming soon)]
 

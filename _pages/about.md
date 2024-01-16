@@ -40,12 +40,9 @@ My research interest includes but not limited to:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024(oral)</div><img src='images/iclr-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GraphGuard: Provably Robust Graph Classification against Adversarial Attacks]()
+[GraphGuard: Provably Robust Graph Classification against Adversarial Attacks](https://openreview.net/pdf?id=IGzaH538fz)
 
 <u>Zaishuo Xia</u>, <u>**Han Yang**</u>, Binghui Wang, Jinyuan Jia<sup>*</sup>
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2023</div><img src='images/ijcnn-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

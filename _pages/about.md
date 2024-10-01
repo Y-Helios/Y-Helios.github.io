@@ -50,7 +50,7 @@ My research interest includes but not limited to:
 
 <u>Zaishuo Xia</u>, <ins>**Han Yang**</ins>, Binghui Wang, Jinyuan Jia<sup>*</sup>
 
-[**code** (coming soon)]
+[**code** ](https://github.com/XiaFire/GNNCERT)
 
 </div>
 </div>

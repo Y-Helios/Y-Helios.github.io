@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Han Yang"
-description              : "Undergraduate Student"
+description              : "PhD Student"
 repository               : "Y-Helios/Y-Helios.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Han Yang"
   avatar           : "images/self.jpg"
-  bio              : "Sichuan University"
-  location         : "Chengdu, China"
+  bio              : "University of Virginia"
+  location         : "Charlottesvile, VA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RlX6PDAAAAAJ"

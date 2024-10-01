@@ -19,11 +19,15 @@ redirect_from:
 
 # 💫 About Me
 
-My name is Han Yang, an undergraduate student from Sichuan University. I major in cybersecurity.
+My name is Han Yang. I am a first-year PhD student at the University of Virginia, coadvised by [Prof.Tianhao Wang](https://tianhao.wang/) and [Prof. Jundong Li](https://jundongli.github.io/).
 
-## 🍀 Ph.D. Aspirations
+I received my B.Eng in Cyber Security from Sichuan University in 2024. 
 
-<span style="color: red;">I'm actively seeking a Ph.D. position for Fall 2024. Wish me good fortune!😘 </span>
+<!--And I'm also honored to have been advised by [Prof.Jinyuan Jia](https://jinyuan-jia.github.io/) during my summer internship. -->
+
+<!--## 🍀 Ph.D. Aspirations-->
+
+<!--<span style="color: red;">I'm actively seeking a Ph.D. position for Fall 2024. Wish me good fortune!😘 </span>-->
 
 ## 📢 Research Interest
 
@@ -68,11 +72,8 @@ Yucheng Fu, Guoheng Sun, **Han Yang**, Juntian Huang, Haizhou Wang<sup>*</sup>
 
 # 🎖 Honors and Awards
 - *2024.06* **Outstanding Graduate Student(Top 10%)**, Sichuan University
-- *2023.10* **National Inspiration Scholarship**, Sichuan University
 - *2023.04* **National 1st Prize**, The 8th China International College Students “Internet+” Internet innovation and Entrepreneurship Competition
 - *2022.12* **National Level (Top 10%)**, The 2022 National Training Program of Innovation and Entrepreneurship for Undergraduates
-- *2022.10* **National Inspiration Scholarship**, Sichuan University
-- *2021.10* **National Inspiration Scholarship**, Sichuan University
 - *2020.10* **Outstanding Student**, Sichuan University
 
 # 💬 Misc

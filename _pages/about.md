@@ -69,7 +69,7 @@ Yucheng Fu, Guoheng Sun, **Han Yang**, Juntian Huang, Haizhou Wang<sup>*</sup>
 
 # 📖 Educations
 - *2019.09 - 2024.06*, Undergraduate, Sichuan University
-- *2024.09 - now, PhD, University of Virginia
+- *2024.09 - now*, PhD, University of Virginia
 
 # 🎖 Honors and Awards
 - *2024.06* **Outstanding Graduate Student(Top 10%)**, Sichuan University
